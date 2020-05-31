@@ -1,0 +1,54 @@
+title: Spooky Spaceships
+description: 
+twitter:
+  username: brstf
+  card: summary
+  creator: brstf
+permalink: pretty
+
+url: "https://www.spookyspaceships.com/"
+baseurl: ""
+
+highlighter: none
+
+exclude:
+  - .jekyll-cache
+  
+compress_html:
+  clippings: all
+  comments: ["<!-- ", " -->"]
+
+sass:
+  sass_dir: _sass
+
+plugins:
+ - jekyll-paginate
+ - jekyll-seo-tag
+ - jekyll-sitemap  
+
+collections:
+  pages:
+    output: true
+    permalink: /:name
+  posts:
+    output: true
+    permalink: /:year/:month/:day/:slug
+  
+defaults:
+  -
+    scope:
+      path: "*.html"
+    values:
+      layout: "default"
+  -
+    scope:
+      path: "*.html"
+      type: "pages"
+    values:
+      layout: "page"
+  -
+    scope:
+      path: "*.html"
+      type: "posts"
+    values:
+      layout: "post"
