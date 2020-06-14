@@ -14,7 +14,6 @@ Our cast of characters:
 The players wake up in the security dome of the Azure Horizons research base to find only Ovibe-wan’s gear and a terminal giving them a set of routine maintenance tasks alongside an ominous countdown. From the terminal, they find event logs that show a violent conflict erupting between colonists a week ago and periodic power surges starting at the same time; the next of these should happen at the end of the countdown. The party grabs maps from the terminal, scavenges what supplies they can, and then cautiously clear the security barricade and head towards the greenhouse.
 
 ![Daily tasks](/assets/moonbase_blues/azure_daily_tasks.png)
-*You can find these graphics (and the Playscii sources) [here](https://drive.google.com/file/d/10WP6ziofMtiOYj4Tw_zQRgprgLiRmJg8/view?usp=sharing)*
 
 In the greenhouse they find their first colonist: a man with his face buried in some of the plants, mumbling numbers to himself, who pays no attention to the new arrivals. Ovibe-wan does some quick math and realizes he’s counting down to the same event as the terminal. Heading into the medbay they find a doctor calmly presiding over a patient in the autodoc happily receiving a blood transfusion of blue liquid. Craig attempts to save the patient with a nonlethal takedown, which starts an escalating conflict which ends with two beheaded colonists and sanity checks all around. Rattled by the conflict with the not-quite human colonists, the players smash the autodoc, and take the blue liquid for investigation. Ovibe-wan gains Stage 1 Meteor Psychosis while attempting to secure a vomit-covered blue rock found in a drawer, hoping to analyze it later in the Geology Lab.
 
@@ -40,3 +39,5 @@ Once the airlock opens, the players are greeted by a large group of colonists le
 
 Aguirre raids the pod for Stuntz’s marine gear, giving the crew their first real weapons they’ve seen, and the players set up “Operation Bloody Condor.” As the colonists draw near, Craig and Aguirre provide a distraction with covering fire so Ovibe-wan and Stuntz can use the rover and a tethered rigging gun line to herd the group of colonists together. Once clumped, Craig, Aguirre, and Stuntz throw grenades to wipe out the colonists. The players discover that the pod has four cryobeds, and with stress running high, quickly dig out the pod and set off in the direction of the nearest inhabited system. They turn on a repeating distress signal and disappear into the black, leaving the remaining survivors to their fate.
 
+{:.footer} 
+*You can find the Azure Base graphics (and the Playscii sources) seen in this post [here](https://drive.google.com/file/d/10WP6ziofMtiOYj4Tw_zQRgprgLiRmJg8/view?usp=sharing)*
