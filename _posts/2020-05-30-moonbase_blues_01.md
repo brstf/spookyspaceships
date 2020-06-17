@@ -7,9 +7,9 @@ tags: [rpg, session-report, mothership]
 I recently had my first experience GMing by running some friends through [Moonbase Blues](https://www.drivethrurpg.com/product/308672/Moonbase-Blues) in Mothership. 
 
 Our cast of characters:
-- **Craig “Man of Tin” Savage** - Scientist - A self-proclaimed doctor and man of action, always carries his kukri with him, even dangerously into cryosleep
-- **Stuntz Mcgee** - Marine - A security guard from the Alabama colony, proudly support his spaceball team’s color with a can of red spray paint
-- **Ovibe-wan Kenchete** - Pilot of the shuttle transporting the new recruits, goes by his vibechete competition pseudonym
+- **Craig “Man of Tin” Savage** - _Scientist_ - A self-proclaimed doctor and man of action, always carries his kukri with him, even dangerously into cryosleep
+- **Stuntz Mcgee** - _Marine_ - A security guard from the Alabama colony, proudly support his spaceball team’s color with a can of red spray paint
+- **Ovibe-wan Kenchete** - _Teamster_ - Pilot of the shuttle transporting the new recruits, goes by his vibechete competition pseudonym
 
 The players wake up in the security dome of the Azure Horizons research base to find only Ovibe-wan’s gear and a terminal giving them a set of routine maintenance tasks alongside an ominous countdown. From the terminal, they find event logs that show a violent conflict erupting between colonists a week ago and periodic power surges starting at the same time; the next of these should happen at the end of the countdown. The party grabs maps from the terminal, scavenges what supplies they can, and then cautiously clear the security barricade and head towards the greenhouse.
 

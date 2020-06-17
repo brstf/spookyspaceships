@@ -10,10 +10,10 @@ The adventure I wrote is _The Incident at Muto Station_ for _Mothership_. I ran 
 
 #### Characters
 
-- Dr. Vector Smith - _Scientist_ - CEO of an anti-virus company turned hopeful biological-virus researcher, owner of the _Vector II_
-- Boomer - _Marine_ - Explosives expert and disgraced marine (these two facts are related), hired by Vector for protection, has given himself the rank of "Supreme General"
-- BU-135 - _Android_ - Vector's loyal android, dark-blue faux-skin with bright eyes, very obviously an android
-- Naomi Kisai - _Teamster_ - The _Vector II_'s pilot, loyal to Vector only as far as her paycheck takes her
+- **Dr. Vector Smith** - _Scientist_ - CEO of an anti-virus company turned hopeful biological-virus researcher, owner of the _Vector II_
+- **Boomer** - _Marine_ - Explosives expert and disgraced marine (these two facts are related), hired by Vector for protection, has given himself the rank of "Supreme General"
+- **BU-135** - _Android_ - Vector's loyal android, dark-blue faux-skin with bright eyes, very obviously an android
+- **Naomi Kisai** - _Teamster_ - The _Vector II_'s pilot, loyal to Vector only as far as her paycheck takes her
 
 While traveling in warp to Dr. Vector Smith's new research consultation, the _Vector II_ receives a distress call from a so-called _Muto Station_ out in a supposedly empty sector of space. BU-135 wakes the crew and together they decide to check out this mysterious station with no transponder that apparently wants to remain a secret. As they approach, their repeated hails to the station are met with silence, and they dock with caution. Inside the locked airlock, a terminal displays a strange message for visitors. After a quick hack by Vector, the crew gains entrance to the station.
 
