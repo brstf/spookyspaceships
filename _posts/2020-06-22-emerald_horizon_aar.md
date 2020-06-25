@@ -4,7 +4,7 @@ title: "Emerald Horizon After-Action Report"
 tags: [rpg, mothership, session-report]
 ---
 
-This week, I ran another Mothership adventure from [Dissident Whispers](https://whispercollective.org/). _Emerald Horizons_ puts the players at the bottom of an acidic ocean in a filtering facility as temp workers. The situation starts stressful, since the tenured crew of the station view the PCs' temp contracts as a threat, and things only get worse from there.
+This week, I ran another Mothership adventure from [Dissident Whispers](https://whispercollective.org/). _Emerald Horizon_ puts the players at the bottom of an acidic ocean in a filtering facility as temp workers. The situation starts stressful, since the tenured crew of the station view the PCs' temp contracts as a threat, and things only get worse from there.
 
 #### Characters
 
